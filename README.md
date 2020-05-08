@@ -7,7 +7,7 @@
 <h2 align="center">How To Host</h2>
 <h5 align="center">The easiest way to deploy this derpfest! is click on the image below</h5>
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/JeelPatel231/OpenUserBot/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a>
-
+<a href="https://colab.research.google.com/github/JeelPatel231/OpenUserBot/blob/sql-extended/stringsession.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 </p>
 
 
